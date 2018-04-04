@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main-header .logo{
+    padding: 0;
+}
+
+.main-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+button{
+    margin-left: 5px;
+}
+
+.table-actions{
+    width: 150px;
+}
